@@ -8,5 +8,5 @@
 ## 4. Run the jenkins-pipeline-deploy-to-eks to create Kubernetes Cluster, create deployments and Services
 ## 5. Test that the application is running 
 ## 6. Destroy infrastructure
-
+test 1
 
